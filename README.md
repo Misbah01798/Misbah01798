@@ -1,7 +1,8 @@
 ![logo](https://github.com/Misbah01798/Misbah01798/blob/main/MIsbah%20uddin.png)
 <h1 align="center">Hi 👋, I'm MISBAH UDDIN</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align='right' alt='coding' width='400' scr='https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg'/>
+<img align='right' alt='coding' width='400' scr='![image](https://github.com/Misbah01798/Misbah01798/assets/139844228/2a6f27d3-58d0-437c-a212-aca4f09b57ec)
+'/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=misbah01798&label=Profile%20views&color=0e75b6&style=flat" alt="misbah01798" /> </p>
 
