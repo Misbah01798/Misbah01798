@@ -1,7 +1,7 @@
 ![logo](https://github.com/Misbah01798/Misbah01798/blob/main/MIsbah%20uddin.png)
 <h1 align="center">Hi 👋, I'm MISBAH UDDIN</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="coding" width="400" scr="![image](https://github.com/Misbah01798/Misbah01798/assets/139844228/eafb31dd-f1e7-4fda-b898-a747e9f98f0e)
+<img align="right" alt="coding" width="400" scr="![image](https://github.com/Misbah01798/Misbah01798/blob/main/news24.gif)
 "/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=misbah01798&label=Profile%20views&color=0e75b6&style=flat" alt="misbah01798" /> </p>
