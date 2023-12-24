@@ -1,6 +1,7 @@
 ![logo](https://github.com/Misbah01798/Misbah01798/blob/main/MIsbah%20uddin.png)
 <h1 align="center">Hi 👋, I'm MISBAH UDDIN</h1>
 <h2 align="center">A passionate frontend developer from Bangladesh</h2>
+<video src="https://github.com/Misbah01798/Misbah01798/blob/main/MISBAH.mp4"></video>
 <img align="right" alt="coding" width="400" scr="![image](https://github.com/Misbah01798/Misbah01798/blob/main/news24.gif)
 "/>
 
